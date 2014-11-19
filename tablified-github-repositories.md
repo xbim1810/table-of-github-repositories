@@ -6,7 +6,7 @@
 | Xi R.   | [cicirao](https://github.com/cicirao/)             |            |         |
 | Dan M.  | [thedanmartin](https://github.com/thedanmartin/)   |            |         |
 | Bing X. | [xbim1810](https://github.com/xbim1810/)           |            |         |
-| Mike F. | [mfreema5/tawp](https://github.com/mfreema5/tawp)  | ( [htmlpreview.github.io](http://htmlpreview.github.io/?https://raw.githubusercontent.com/mfreema5/tawp/master/index.html) ) | Nowhere near complete or functional. |
+| Mike F. | [mfreema5/tawp](https://github.com/mfreema5/tawp)  | [www.freeman.blue](http://www.freeman.blue) | The content isn't finished, but the design is close. |
 | Richard C. | [rclegg](https://github.com/rclegg/)            |            |         |
 | Ally W. | [awarf](https://github.com/awarf/)                 |            |         |
 | Josh H. | [jhignight](https://github.com/jhignight/)         |            |         |
